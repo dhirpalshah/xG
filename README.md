@@ -20,9 +20,12 @@ To install the necessary dependencies for this package, run the following in the
 
 # To do
 
+## Danny
+- Try to run other code to see if it works (Danny)
+- Add data files to github
+
 ## Figure out our output
 - Find good resources to learn from
-- Try to run other code to see if it works (Danny)
 
 ## Figure out code flow
 - Preprocess (Danny)
