@@ -21,15 +21,16 @@ To install the necessary dependencies for this package, run the following in the
 # To do
 
 ## Danny
-- Try to run other code to see if it works (Danny)
+- Try to run other code to see if it works
 - Add data files to github
 
-## Figure out our output
+## Dhirpal 
+### Figure out our output
 - Find good resources to learn from
 
-## Figure out code flow
-- Preprocess (Danny)
+### Figure out code flow
+- Preprocess
 - Find best fit model classification
 
-## Additional steps
+### Additional steps
 - Rolling xG (throughout the match?)
