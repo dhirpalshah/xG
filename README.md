@@ -26,7 +26,6 @@ hello
 - Try to run other code to see if it works (Danny)
 
 ## Figure out code flow
-- Create make files / installation guide (Dhirpal)
 - Preprocess (Danny)
 - Find best fit model classification
 
