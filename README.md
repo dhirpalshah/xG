@@ -19,7 +19,6 @@ To install the necessary dependencies for this package, run the following in the
 `pip install -e .[dev]`
 
 # To do
-hello
 
 ## Figure out our output
 - Find good resources to learn from
