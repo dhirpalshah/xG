@@ -5,7 +5,7 @@ Our side project to attempt to calculate football's Expected Goals (xG) statisti
 
 ## Clone this repo
 To clone this repository, run:
-`git clone git@github.com:dhirpalshah/xG.git`
+`git clone https://github.com/dhirpalshah/xG.git`
 
 ## Creating a Virtual Environment
 Create a virtual environment first by running the following code:
