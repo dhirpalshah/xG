@@ -21,13 +21,9 @@ To install the necessary dependencies for this package, run the following in the
 # To do
 
 ## Danny
-<<<<<<< HEAD
 - Try to run other code to see if it works (Danny)
     - Preprocess.ipynb works
     - xGModel.ipynb works
-=======
-- Try to run other code to see if it works
->>>>>>> 29898de084c304c1176880d38512906fce714917
 - Add data files to github
 
 ## Dhirpal 
